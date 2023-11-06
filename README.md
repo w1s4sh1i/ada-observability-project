@@ -23,3 +23,7 @@ O objetivo final, é que através do conteúdo absorvido durante as aulas, seja 
 ## RESULTADO FINAL
 
 ![image](https://github.com/w1s4sh1i/ada-observability-project/assets/14793244/ee69798c-1388-41ba-b759-9099d654bd0b)
+
+## COLABORADORES
+- André Bezerra
+- Hugo Melo
